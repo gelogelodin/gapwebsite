@@ -1,0 +1,16 @@
+/* MAIN STYLES */
+
+@import 'settings';
+
+@import 'fonts';
+
+@import 'global';
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    font-size: $default_font_size;
+}
